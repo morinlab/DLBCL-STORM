@@ -2,6 +2,8 @@
 
 Files associated with the DLBCL-STORM (Somatic Tracking Of Residual Mutations) hybrid capture panel. 
 
+The full panel is over 618 kb of total target space.
+
 ## Bed files
 
 | File | Description |
