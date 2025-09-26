@@ -1,8 +1,14 @@
 # DLBCL-STORM Hybrid Capture Panel
 
-Files associated with the DLBCL-STORM (Somatic Tracking Of Residual Mutations) hybrid capture panel. 
+Files associated with the DLBCL-STORM (Somatic Tracking Of Residual Mutations) hybrid capture panel. The panel
+was created to detect mutations in cfDNA from DLBCL patients and track those variants accross mutliple timepoints
+to assess response to treatment.
 
-The full panel is over 618 kb of total target space.
+The full panel is over 618 kb of total target space covering the coding space of 195 genes and 61 non-coding
+targets subject to aSHM.
+
+For an example bioinformatics pipeline used to analyse data captured by this panel see:
+https://github.com/LCR-BCCRC/lcr-modules/tree/cfdna_pipeline/modules/cfdna_pipeline/1.0
 
 ## Bed files
 
