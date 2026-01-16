@@ -18,11 +18,18 @@ https://github.com/LCR-BCCRC/lcr-modules/tree/cfdna_pipeline/modules/cfdna_pipel
 | **DLBCL_STORM_aSHM_Jan2025.bed** | aSHM (non-coding) targets |
 | **DLBCL_STORM_exons_Jan2025.bed** | Coding targets |
 
+## background mutation rates
+
+| File | Description |
+|------|-------------|
+| **STORM_background_mutation_rates_JAN2026.tsv* | Index of genomic positions and the point and indel mutation rates and SD generated using the lcr-module artifact_alert, an a panel of over 300 buffy coat samples from DLBCL patients |
+
 ## Hotspots
 
 | File | Description |
 |------|-------------|
 | **mutation_Hotspots_hg38_June2025.txt** | Custom DLBCL hotspot manifest based on data from the GAMBL project |
+| **lymphopedia_DLBCL_hotspots_hg38_2026-01-02.vcf.gz** | Hotspot manifest generated using samples from the GAMBL repository (reference in prep) |
 
 GAMBL: https://github.com/morinlab/GAMBLR
 
